@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these figure data or plotting scripts, please cite this repository and the associated TAMPO-3D manuscript."
+type: software
+title: "TAMPO-3D: Figure data and plotting code"
+authors:
+  - family-names: Tang
+    given-names: Rong
+  - family-names: Qiu
+    given-names: Zhongfeng
+    email: zhongfeng.qiu@nuist.edu.cn
+  - family-names: Wang
+    given-names: Yu
+  - family-names: Wang
+    given-names: Wenshuo
+  - family-names: Nie
+    given-names: Juan
+  - family-names: Ma
+    given-names: Changlan
+repository-code: "https://github.com/rongt988-sudo/TAMPO-3D"
+url: "https://github.com/rongt988-sudo/TAMPO-3D"
+abstract: "Final plotting variables and standalone Python scripts for Figures 3–12, and evaluation metrics for Tables 2–3, accompanying the TAMPO-3D manuscript."
+keywords:
+  - ocean reconstruction
+  - western North Pacific
+  - Kuroshio
+  - figure data
+  - scientific visualization
+license: MIT

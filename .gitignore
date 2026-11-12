@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+code/Figure_*.png
+code/Figure_*.pdf
+code/Figure_*.svg
+code/Figure_*.tif
+code/Figure_*.tiff
