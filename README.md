@@ -23,7 +23,7 @@ To draw one figure:
 python code/plot_figure_03.py
 ```
 
-The scripts locate the data relative to their own files, so no input-path editing is needed after moving or downloading the repository. Each script writes a PDF and a 600 dpi PNG to `code/`. Drawing the figures requires the included files, installed Python dependencies, and the fonts specified below. The final typography uses Arial and Liberation Sans; install these fonts for matching text appearance. The original renderings used Matplotlib 3.10.8, with Figures 5 and 12 also checked against their original Matplotlib 3.11.2 renderings.
+The scripts locate the data relative to their own files, so no input-path editing is needed after moving or downloading the repository. Each script writes a PDF and a 600 dpi PNG to `code/`. Drawing the figures requires the included files, installed Python dependencies, and the fonts specified below.
 
 ## Citation and licenses
 
